@@ -4,8 +4,9 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; I am interested in web development and mobile development.
-- 🎓 &nbsp; Studying Informatic at Telkom University.
+- 🤔 &nbsp; I am Solution Artchitect, DevOps and ISMS Clouds
+- 🌁 &nbsp; DevOps & ISMS Senoir Officer in Insurance Indonesia
+- 🎓 &nbsp; Informatic at Telkom University.
 
 
 <br>
