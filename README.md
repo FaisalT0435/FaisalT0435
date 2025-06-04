@@ -73,32 +73,6 @@
 </p>
 <br>
 
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/faisal-tri-surya-atmaja-ba58ab137/" target="_blank">
-  <img align="center" alt="Faisal Tri Surya A | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://instagram.com/faisaltsa23?utm_medium=copy_link" target="_blank">
-  <img align="center" alt="Faisal Tri Surya Atmaja | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:faisaltsurya@gmail.com" >
-  <img align="center" alt="Faisal Tri Surya Atmaja | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-</p>
-
-<br>
-
-<div align="center">
-
-<a href="https://portofolio.faisalproject.com/" target="_blank">Portofolio</a> &nbsp;|&nbsp;
-<a href="https://tools-if.faisalproject.com/" target="_blank">Informatika-Tool</a> &nbsp;|&nbsp;
-<a href="https://log-room.faisalproject.com/login" target="_blank">Room-Log</a>
-
-<br><br>
-<sub>Copyright &copy; Faisal Tri Surya 2025</sub>
-</div>
 
 
 
@@ -144,6 +118,7 @@
  
  <br>
 
+
   <div align="center">
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
@@ -157,8 +132,19 @@
 <a href="mailto:faisaltsurya@gmail.com" >
   <img align="center" alt="Faisal Tri Surya Atmaja | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
+</p>
 
-<p>
+<br>
+
+<div align="center">
+
+<a href="https://portofolio.faisalproject.com/" target="_blank">Portofolio</a> &nbsp;|&nbsp;
+<a href="https://tools-if.faisalproject.com/" target="_blank">Informatika-Tool</a> &nbsp;|&nbsp;
+<a href="https://log-room.faisalproject.com/login" target="_blank">Room-Log</a>
+
+<br><br>
+<sub>Copyright &copy; Faisal Tri Surya 2025</sub>
+</div>
   
 
 
